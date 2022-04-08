@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/honda/Downloads/VaccinationListActivity-master/VaccinationListActivity-master/app/src/main/res/layout/activity_vaccination_list.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/honda/Downloads/VaccinationListActivity-master/VaccinationListActivity-master/app/src/main/res/layout/activity_vaccinationdetail.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/honda/Downloads/VaccinationListActivity-master/VaccinationListActivity-master/app/src/main/res/layout/item_vaccination.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/honda/Downloads/VaccinationListActivity-master/VaccinationListActivity-master/app/src/main/res/menu/vaccinesort.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14629629629629629" />
+        <entry key="app/src/main/res/layout/activity_vaccination_detail.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_vaccination_list.xml" value="0.3161231884057971" />
+        <entry key="app/src/main/res/layout/activity_vaccinationdetail.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/item_vaccination.xml" value="0.335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
